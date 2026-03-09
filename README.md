@@ -4,7 +4,7 @@
 💻 CS Undergrad @ Trinity College Dublin  
 🌱 Learning Java, Python, AI & Systems  
 🔧 Building portfolio projects this summer  
-📫 Contact: L3249016320@gmail.com
+📫 Contact: liuj20@tcd.ie
 
 ## Projects
 
